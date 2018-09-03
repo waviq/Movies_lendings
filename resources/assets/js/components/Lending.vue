@@ -10,7 +10,7 @@
 
             </div>
             <div class="box-body">
-                <table id="memberTables" class="table table-bordered table-striped">
+                <table id="LendingTables" class="table table-bordered table-striped">
                     <thead>
                     <tr>
                         <th>Movie</th>

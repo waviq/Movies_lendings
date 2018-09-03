@@ -13,7 +13,7 @@
     <script src="{{asset('plugins/datatables.net-bs/js/dataTables.bootstrap.min.js')}}"></script>
     <script>
         $(function () {
-            $('#memberTables').DataTable()
+            $('#LendingTables').DataTable()
         })
     </script>
 @endsection
