@@ -1,4 +1,4 @@
-import { baseApiUrl } from '../setting/env'
+import { baseApiUrl } from '../../../../env'
 
 
 export const movies = baseApiUrl + 'movie';

@@ -5452,13 +5452,13 @@ module.exports = __webpack_require__(175);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return member; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return memberActive; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return lending; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__setting_env__ = __webpack_require__(177);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__env__ = __webpack_require__(177);
 
 
-var movies = __WEBPACK_IMPORTED_MODULE_0__setting_env__["a" /* baseApiUrl */] + 'movie';
-var member = __WEBPACK_IMPORTED_MODULE_0__setting_env__["a" /* baseApiUrl */] + 'member';
-var memberActive = __WEBPACK_IMPORTED_MODULE_0__setting_env__["a" /* baseApiUrl */] + 'member-active';
-var lending = __WEBPACK_IMPORTED_MODULE_0__setting_env__["a" /* baseApiUrl */] + 'lending';
+var movies = __WEBPACK_IMPORTED_MODULE_0__env__["a" /* baseApiUrl */] + 'movie';
+var member = __WEBPACK_IMPORTED_MODULE_0__env__["a" /* baseApiUrl */] + 'member';
+var memberActive = __WEBPACK_IMPORTED_MODULE_0__env__["a" /* baseApiUrl */] + 'member-active';
+var lending = __WEBPACK_IMPORTED_MODULE_0__env__["a" /* baseApiUrl */] + 'lending';
 
 /***/ }),
 /* 9 */
