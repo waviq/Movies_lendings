@@ -3,7 +3,7 @@ namespace PHPSTORM_META {
 
    /**
     * PhpStorm Meta file, to provide autocomplete information for PhpStorm
-    * Generated on 2018-09-01 00:23:46.
+    * Generated on 2018-09-03 06:57:01.
     *
     * @author Barry vd. Heuvel <barryvdh@gmail.com>
     * @see https://github.com/barryvdh/laravel-ide-helper
@@ -39,6 +39,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -177,6 +178,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -315,6 +317,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -453,6 +456,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -591,6 +595,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -729,6 +734,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
@@ -867,6 +873,7 @@ namespace PHPSTORM_META {
         'view' => \Illuminate\View\Factory::class,
         'view.finder' => \Illuminate\View\FileViewFinder::class,
         'view.engine.resolver' => \Illuminate\View\Engines\EngineResolver::class,
+        'Asm89\Stack\CorsService' => \Asm89\Stack\CorsService::class,
         'fractal' => \Spatie\Fractal\Fractal::class,
         'UxWeb\SweetAlert\SessionStore' => \UxWeb\SweetAlert\LaravelSessionStore::class,
         'uxweb.sweet-alert' => \UxWeb\SweetAlert\SweetAlertNotifier::class,
